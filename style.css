@@ -1,0 +1,71 @@
+body {
+    background-color:rgb(206, 198, 211);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+  }
+  
+  p  {
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+   }
+  a {
+    text-decoration: none;
+    color: white;
+    padding: 0px 50px;
+  }
+  a:hover {
+    color: black;
+  }
+ #secondlinks{
+  color: rgb(104, 107, 162);
+  padding: 0px 0px;
+}
+  #secondlinks:hover{
+    color: whitesmoke;
+  }
+    
+ 
+  
+ 
+div{
+    background-color:rgb(104, 107, 162);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 0.8;
+    bottom: 0;
+    width: 100%;
+    text-align:  center;
+   color: white;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    
+}
+ul{
+list-style-type: none;
+padding: 0;
+overflow: hidden;
+border-radius: 10px;
+bottom: 0;
+}
+.nav{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    text-align: white;
+}
